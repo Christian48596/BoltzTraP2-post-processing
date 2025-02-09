@@ -44,7 +44,7 @@ Georg K.H. Madsen, Jesús Carrete, Matthieu J. Verstraete, BoltzTraP2, a program
    
 @software{ChT_BTP2-PP,
   author = {Tantardini, Christian},
-  doi = {10.5281/zenodo.14058295},
+  doi = {10.5281/zenodo.14058294},
   month = {11},
   title = {BoltzTraP2-post-processing},
   url = {https://github.com/Christian48596/BoltzTraP2-post-processing},
